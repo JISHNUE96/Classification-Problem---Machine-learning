@@ -1,2 +1,5 @@
 # Classification-Problem---Machine-learning
-assignment: Classification Problem
+Classification Problem Assignment
+This assignment focuses on solving a classification problem, a fundamental task in machine learning used to categorize data into predefined classes. The project involves preprocessing the dataset by handling missing values, encoding categorical variables, scaling features, and splitting the data into training and testing sets. Various classification algorithms such as Logistic Regression, Decision Trees, Random Forests, and K-Nearest Neighbors (KNN) were applied to build predictive models.
+
+Performance metrics like accuracy, precision, recall, F1-score, and ROC-AUC were used to evaluate the models' effectiveness. Visualizations, including confusion matrices and ROC curves, provided insights into model performance and class distribution. The assignment demonstrates the entire pipeline, from understanding the dataset to optimizing model performance, showcasing the practical application of machine learning in solving classification problems.
